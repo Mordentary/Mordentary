@@ -1,4 +1,4 @@
-# Hi, I'm Seva! 😊  
+# Hi, I'm Seva! :^)
 
 ## About Me  
 I'm a 21-year-old graphics programmer from Israel, currently pursuing a BSc in Computer Science and Physics. I’m deeply passionate about real-time rendering, cutting-edge graphics techniques, and building custom engines from the ground up.  
