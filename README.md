@@ -13,7 +13,7 @@ I’m currently looking for internships or full-time opportunities in the games 
 ---
 
 ## What I'm Working On  
-I’m diving into advanced mathematics, developing **Singularity Engine** (a Vulkan-based engine with GPU-accelerated path tracing), and fine-tuning my CPU rasterizer, *AxiomR*.  
+I’m diving into advanced mathematics, developing **Singularity Engine** (a Vulkan-based multiplatform engine with GPU-accelerated path tracing)
 
 ---
 
